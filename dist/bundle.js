@@ -17180,6 +17180,8 @@ function component () {
 
 document.body.appendChild(component());
 
+// ./node_modules/.bin/webpack app/index.js dist/bundle.js 将 app/index.js 变成 dist/bundle.js
+
 /***/ }),
 /* 2 */
 /***/ (function(module, exports) {
